@@ -1,0 +1,99 @@
+Cmp-Mod V01 Created by PcbNew   date = ven. 08 févr. 2019 22:12:19 CET
+
+BeginCmp
+TimeStamp = 5C6A8365
+Path = /5C1AC024
+Reference = J2;
+ValeurCmp = RJ12;
+IdModule  = Connector_RJ:RJ12_Amphenol_54601;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A827A
+Path = /5C1ABB30
+Reference = A1;
+ValeurCmp = Arduino_Nano_v3.x;
+IdModule  = Module:Arduino_Nano;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A8298
+Path = /5C4CB27E
+Reference = Bee1;
+ValeurCmp = MeshBeeZigBeePro;
+IdModule  = RF_Module:MeshBeeZigBeePro;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A831C
+Path = /5C1AF45C
+Reference = C1;
+ValeurCmp = CP;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A832D
+Path = /5C1AEB52
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A8343
+Path = /5C1AE3B5
+Reference = J1;
+ValeurCmp = Conn_01x02_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A8387
+Path = /5C1ABCA9
+Reference = J3;
+ValeurCmp = RJ12;
+IdModule  = Connector_RJ:RJ12_Amphenol_54601;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A83A9
+Path = /5C1ABE3E
+Reference = J4;
+ValeurCmp = RJ12;
+IdModule  = Connector_RJ:RJ12_Amphenol_54601;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A83CB
+Path = /5C1ABE9E
+Reference = J5;
+ValeurCmp = RJ12;
+IdModule  = Connector_RJ:RJ12_Amphenol_54601;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A83E2
+Path = /5C5DCD7C
+Reference = R1;
+ValeurCmp = 15K;
+IdModule  = Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A92C3
+Path = /5C5DCCBB
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6A8E57
+Path = /5C5E2A3A
+Reference = U1;
+ValeurCmp = ULN2803A;
+IdModule  = Package_DIP:DIP-18_W7.62mm_Socket_LongPads;
+EndCmp
+
+EndListe
